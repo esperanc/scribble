@@ -18,6 +18,6 @@ The demo is divided into two sections: the first part contains some global varia
  - `function mouseDragged ()` --> called when the mouse is moved while a button is pressed,
  - `function mouseMoved ()` --> called when the mouse is moved regardless of whether a button is pressed or not.
 
-There is also support for the `setup()` function that serves as a good spot to put you initialization code. This is automatically called by `init()' if defined. 
+There is also support for the `setup()` function that serves as a good spot to put you initialization code. This is automatically called by `init()` if defined. 
 
 Finally, you must call `init ()` explicitly - usually in the last line of your code.
