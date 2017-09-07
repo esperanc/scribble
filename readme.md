@@ -1,12 +1,14 @@
 # Scribble
 
-A very minimal 2D sketch using [three.js](www.threejs.org).
+A very minimal 2D sketch using [three.js](https://threejs.org).
 
 # What is this?
 
-This is my attempt at writing a template that could be used to write three.js-based javascript programs using a coding style similar to that used when writing [p5.js / Processing](p5js.org)-based sketches. The idea is to set up global Three.js objects such as a `Scene`, a `Renderer`, a `Camera`, etc and automatically link mouse callbacks. This code is just a demo which lets you use your mouse to draw free-hand lines on the screen.
+This is my attempt at writing a template that could be used to write three.js-based javascript programs using a coding style similar to that used when writing [p5.js / Processing](https://p5js.org)-based sketches. The idea is to set up global Three.js objects such as a `Scene`, a `Renderer`, a `Camera`, etc and automatically link mouse callbacks. This code is just a demo which lets you use your mouse to draw free-hand lines on the screen.
 
-If you just want to use the scribble application, upload it to your web server and access index.html. A more interesting use, however, is to use this code as a template to write a 2D drawing application that does what you want. Notice that you still need to understand how Three.js works. 
+If you just want to use the scribble application, upload it to your web server and access index.html. For instance, here is a [live scribble page](https://rawgit.com/esperanc/scribble/master/index.html).
+
+ A more interesting use, however, is to use this code as a template to write a 2D drawing application that does what you want. Notice that you still need to understand how Three.js works!
 
 # Usage
 
